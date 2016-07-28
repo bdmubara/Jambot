@@ -848,3 +848,4 @@ void WavManipulation::start(string fileName){
 void WavManipulation::stop(){
 	kill = true;
 }
+
