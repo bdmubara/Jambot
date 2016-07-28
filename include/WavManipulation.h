@@ -73,3 +73,4 @@ public:
 	static void startReading(bool);
 	static bool readFrequency();
 };
+
